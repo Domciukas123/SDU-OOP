@@ -1,2 +1,3 @@
 Kazkas
 Kazkas kvadratu
+Kazkas kubu
